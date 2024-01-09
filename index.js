@@ -1,8 +1,8 @@
-// const inputEl = document.getElementById('input');
+const inputEl = document.getElementById('input');
 
 
 
 
-// inputEl.addEventListener('keyup', (e) => {
-//     console.log(e.target.value);
-// });
+inputEl.addEventListener('keyup', (e) => {
+    if(e.target.value);
+});
